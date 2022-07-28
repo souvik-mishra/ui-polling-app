@@ -10,6 +10,7 @@
     header {
         background-color: #f7f7f7;
         padding: 20px;
+        font-family: Arial, Helvetica, sans-serif;
     }
 
     header > h1 {
