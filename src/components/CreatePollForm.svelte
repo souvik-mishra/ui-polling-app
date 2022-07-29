@@ -3,7 +3,6 @@
     import PollStore from '../stores/PollStore.js';
     import { createEventDispatcher } from 'svelte';
     import Button from '../shared/Button.svelte';
-import PollDetails from './PollDetails.svelte';
 
     const formDispatcher = createEventDispatcher();
     let fields = { question:'', answerA:'', answerB:''};
